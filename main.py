@@ -6,3 +6,7 @@ url = 'https://en.wikipedia.org/wiki/BMW_3_Series_(E90)'
 # file_name = input('Choose .csv file name: ')
 
 soup = BeautifulSoup(requests.get(url).text, 'html.parser')
+
+table = soup.find_all('table')[1]
+
+print(table)
