@@ -75,6 +75,7 @@ docker run -ti ton1czech/tabcsvly:0.9.0
 ##### .CSV OUTPUT
 
 <img src='https://imgur.com/xFhqGmz.png' />
+
 ```csv
 Model,Years,Engine- turbo,Power,Torque
 316i,2012–2015,N13B16 straight-4,"100 kW (134 hp) at 4,400–6,450 rpm","220 N⋅m (160 lbf⋅ft) at 1,350–4,300 rpm"
