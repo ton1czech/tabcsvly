@@ -18,7 +18,7 @@
 
 **easy to use** command line convertor (html table -> csv)
 
-With this application, users can simply enter url to the table and the application will convert it to a CSV file that can be easily opened and edited in spreadsheet programs such as Microsoft Excel or Google Sheets. This can be particularly useful for users who need to extract data from web pages or generate reports from HTML tables.
+With this application, users can simply enter url to the table and the application will convert it to a `CSV` file that can be easily opened and edited in spreadsheet programs such as `Microsoft Excel` or `Google Sheets`. This can be particularly useful for users who need to extract data from web pages or generate reports from `HTML tables`.
 
 <br />
 
@@ -120,7 +120,13 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ---
 
-## 📌 **LINKS**
+## 📌 **CREDITS**
+
+##### Daniel Anthony Baudyš (ton1czech)
+
+programmer, investor and god 🤫
+
+<img alt='ton1czech' src='https://avatars.githubusercontent.com/u/66372827?v=4' />
 
 [<img alt="Github" src="https://img.shields.io/badge/@ton1czech-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/ton1czech)
 [<img alt="Twitter" src="https://img.shields.io/badge/@ton1czech-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />](https://twitter.com/ton1czech)
