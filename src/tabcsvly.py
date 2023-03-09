@@ -8,6 +8,7 @@
 from bs4 import BeautifulSoup
 from urllib.request import urlopen
 import pandas as pd
+import re
 
 # get user url
 url = input('type your URL [http://...]: ')
@@ -22,6 +23,9 @@ def main():
 
     # fint html table
     table = str(soup.find_all('table')[num-1])
+
+    # regex
+    table = re.sub("\[.*\]", '', table)
 
     # use pandas to red html table
     df = pd.read_html("".join(table))[0]
