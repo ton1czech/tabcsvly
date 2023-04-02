@@ -1,6 +1,6 @@
 <div align='center'>
     <h1><b>🚀 TABCSVLY 🚀</b></h1>
-    <img src='https://em-content.zobj.net/thumbs/240/twitter/322/spiral-calendar_1f5d3-fe0f.png' width='250' height='250' />
+    <img src='./docs/icon.png' width='250' height='250' />
     <p>convert HTML tables into CSV files</p>
 </div>
 
